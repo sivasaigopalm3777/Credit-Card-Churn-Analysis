@@ -160,7 +160,7 @@ This project demonstrates how data analytics can be used to:
 ## 👨‍💻 Author
 
 **Siva Sai Gopal Mandru**  
-Data Analyst (Fresher)
+Data Analyst
 
 ---
 
