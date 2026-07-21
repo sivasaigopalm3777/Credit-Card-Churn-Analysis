@@ -6,7 +6,7 @@
 
 ---
 
-## 📌 Overview
+## 📌 Project Overview
 
 This project focuses on analyzing customer churn behavior in a credit card business using **SQL, Excel, and Power BI**.
 The objective is to identify key churn drivers, segment customers based on risk, and provide actionable business recommendations.
